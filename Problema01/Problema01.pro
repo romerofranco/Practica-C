@@ -5,3 +5,4 @@ CONFIG -= qt
 
 SOURCES += \
         main.c
+QMAKE_CFLAGS += -Wno-deprecated-declarations
