@@ -199,7 +199,7 @@ printf("El mayor numero ingresado es: %d\n",mayorNumeroIngresado);
  *  3. multiplicar dos numeros.
  *  4. Salir
  *
- *  El menu debe repetirse hasta que el usuario elija salir */
+ *  El menu debe repetirse hasta que el usuario elija salir
 
 #include<stdio.h>
 int main(){
@@ -251,4 +251,5 @@ do{
 
 printf("Muchas Gracias por usar nuestro Programa.\n");
 
-}
+return 0;
+}*/
