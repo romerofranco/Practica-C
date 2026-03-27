@@ -183,7 +183,5 @@ int main(){
 }while(operador == 's' && 'S');
 
   printf("El resultado de los numeros dados es:%d",suma);
-
-
-
+  return 0;
 }
