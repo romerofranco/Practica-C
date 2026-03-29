@@ -89,7 +89,7 @@ int main(){
 }*/
 
 /*Ingresa por teclado una oracion de hasta 200 caracteres. Se sabe que el operador ingresa solo un caracter en blanco entre palabras. Imprimir por pantalla
- * la cantidad de palabras que tiene la oracion.*/
+ * la cantidad de palabras que tiene la oracion.
 #include<stdio.h>
 int main(){
 
@@ -117,4 +117,4 @@ int main(){
   printf("La cantidad de palabras de la oracion son %d", palabras);
 
   return 0;
-}
+}*/
