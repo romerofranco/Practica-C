@@ -104,7 +104,7 @@ int main(){
 
 }*/
 
-/*Confeccionar un programa que pida ingresar el nombre de usuario y clave en dos strings. Mostrar un mensaje Correcto si se ingresa como clave la cadena "abc123"*/
+/*Confeccionar un programa que pida ingresar el nombre de usuario y clave en dos strings. Mostrar un mensaje Correcto si se ingresa como clave la cadena "abc123"
 #include<stdio.h>
 #include<string.h>
 
@@ -127,4 +127,5 @@ int main(){
 
   return 0;
 
-}
+}*/
+
